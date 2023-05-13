@@ -67,6 +67,7 @@
 <code>opencv-python==4.5.3.56</code><br>
 <code>ultralytics==0.0.6</code><br>
 <code>seaborn==0.11.1</code><br>
+
 </div>
 </div>
 <div class="section">
