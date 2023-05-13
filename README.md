@@ -3,44 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <title>YOLOv8 Object Detection App</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-    }
-    h1 {
-      color: #333;
-    }
-    p {
-      margin-bottom: 10px;
-    }
-    code {
-      background-color: #f5f5f5;
-      padding: 2px 5px;
-      border-radius: 3px;
-    }
-    .code-block {
-      background-color: #f5f5f5;
-      border: 1px solid #ccc;
-      border-radius: 3px;
-      padding: 10px;
-      margin-bottom: 20px;
-      overflow-x: auto;
-    }
-    .code-block code {
-      display: block;
-    }
-    .note {
-      color: #777;
-    }
-    .section {
-      margin-bottom: 40px;
-    }
-    .section-title {
-      font-size: 24px;
-      margin-bottom: 10px;
-    }
-  </style>
 </head>
 <body>
   <h1>YOLOv8 Object Detection App</h1>
