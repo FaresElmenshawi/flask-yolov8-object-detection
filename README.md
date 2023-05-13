@@ -85,44 +85,44 @@
     <ul>
       <li><strong>maln.py:</strong> The main Flask application file.</li>
       <li><strong>infer.py:</strong> Contains functions for running YOLOv8 object detection.</li>
-      <li><strong>templates:</strong> Contains HTML templates for rendering the web pages.</li>
-            <li><strong>static/web_images:</strong> Contains static images used in the web application.</li>
-      <li><strong>yolo_assets:</strong> Contains the YOLOv8 model, class names file, and output directory for detections.</li>
-      <li><strong>README.md:</strong> The README file with instructions and information about the project.</li>
-      <li><strong>requirements.txt:</strong> Lists the required Python packages and their versions.</li>
-    </ul>
-  </div>
-  
-  <div class="section">
-    <h2 class="section-title">Dependencies</h2>
-    <p>The project relies on the following dependencies:</p>
-    <div class="code-block">
-      <code>Flask==1.1.4</code><br>
-      <code>Flask-WTF==1.0.1</code><br>
-      <code>opencv-python==4.7.0.72</code><br>
-      <code>ultralytics==8.0.99</code><br>
-      <code>seaborn</code><br>
-    </div>
-  </div>
-  
-  <div class="section">
-    <h2 class="section-title">Contributing</h2>
-    <p>Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to create an issue or submit a pull request.</p>
-  </div>
-  
-  <div class="section">
-    <h2 class="section-title">License</h2>
-    <p>This project is licensed under the MIT License. See the <code>LICENSE</code> file for more information.</p>
-  </div>
-  
-  <div class="section">
-    <h2 class="section-title">Acknowledgments</h2>
-    <p>Special thanks to the creators of YOLOv8 and Flask for their excellent frameworks.</p>
-  </div>
-  
-  <div class="section">
-    <h2 class="section-title">Contact</h2>
-    <p>If you have any questions or inquiries, please contact me at fareselmenshawi98@gmail.com.</p>
-  </div>
+      <li><strong>templates:</strong> Contains HTML templates for rendering the web pages.
+
+<li><strong>static/web_images:</strong> Contains static images used in the web application.</li>
+<li><strong>yolo_assets:</strong> Contains the YOLOv8 model, class names file, and output directory for detections.</li>
+<li><strong>README.md:</strong> The README file with instructions and information about the project.</li>
+<li><strong>requirements.txt:</strong> Lists the required Python packages and their versions.</li>
+</ul>
+</div>
+<div class="section">
+<h2 class="section-title">Dependencies</h2>
+<p>The project relies on the following dependencies:</p>
+<div class="code-block">
+<code>Flask==1.1.2</code><br>
+<code>Flask-WTF==0.15.1</code><br>
+<code>secrets==1.0.2</code><br>
+<code>wtforms==2.3.3</code><br>
+<code>wget==3.2</code><br>
+<code>numpy==1.20.3</code><br>
+<code>opencv-python==4.5.3.56</code><br>
+<code>ultralytics==0.0.6</code><br>
+<code>seaborn==0.11.1</code><br>
+</div>
+</div>
+<div class="section">
+<h2 class="section-title">Contributing</h2>
+<p>Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to create an issue or submit a pull request.</p>
+</div>
+<div class="section">
+<h2 class="section-title">License</h2>
+<p>This project is licensed under the MIT License. See the <code>LICENSE</code> file for more information.</p>
+</div>
+<div class="section">
+<h2 class="section-title">Acknowledgments</h2>
+<p>Special thanks to the creators of YOLOv8 and Flask for their excellent frameworks.</p>
+</div>
+<div class="section">
+<h2 class="section-title">Contact</h2>
+<p>If you have any questions or inquiries, please contact me at your-email@example.com.</p>
+</div>
 </body>
 </html>
