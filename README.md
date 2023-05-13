@@ -2,7 +2,6 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>YOLOv8 Object Detection App</title>
 </head>
 <body>
   <h1>YOLOv8 Object Detection App</h1>
