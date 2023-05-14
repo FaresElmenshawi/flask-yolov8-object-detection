@@ -58,16 +58,10 @@
 <h2 class="section-title">Dependencies</h2>
 <p>The project relies on the following dependencies:</p>
 <div class="code-block">
-<code>Flask==1.1.2</code><br>
-<code>Flask-WTF==0.15.1</code><br>
-<code>secrets==1.0.2</code><br>
-<code>wtforms==2.3.3</code><br>
-<code>wget==3.2</code><br>
-<code>numpy==1.20.3</code><br>
-<code>opencv-python==4.5.3.56</code><br>
-<code>ultralytics==0.0.6</code><br>
-<code>seaborn==0.11.1</code><br>
-
+<code>Flask==2.3.2</code><br>
+<code>Flask-WTF==1.1.1</code><br>
+<code>opencv-python==4.7.0.72</code><br>
+<code>ultralytics==8.0.99</code><br>
 </div>
 </div>
 <div class="section">
