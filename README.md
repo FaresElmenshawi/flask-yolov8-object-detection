@@ -16,8 +16,8 @@
   <div class="section">
     <h2 class="section-title">Installation</h2>
     <div class="code-block">
-      <code>$ git clone https://github.com/your-repo.git</code><br>
-      <code>$ cd your-repo</code><br>
+      <code>$ git clone https://github.com/FaresElmenshawi/flask-yolov8-object-detection.git</code><br>
+      <code>$ cd flask-yolov8-object-detection</code><br>
       <code>$ pip install -r requirements.txt</code>
     </div>
   </div>
